@@ -1,4 +1,4 @@
-# PR checklist Action
+# PR checklist Action 2
 
 ![](https://github.com/PokaInc/pr-template-action/workflows/Tests/badge.svg)
 
